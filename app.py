@@ -436,7 +436,7 @@ st.markdown('Tarkan sunar...')
 st.caption('made by Çisem Kaplan & Bengü Yurdakul ')
 st.sidebar.header("KUZU KUZU")
 st.sidebar.write("İster at, ister öp beni. Ama önce dinle bak gözlerime!")
-file_ = open("tarkangif.gif", "rb") #C:/Users/admin/Dropbox/My PC (DESKTOP-CQS9CBD)/Desktop/
+file_ = open("tarkangif.gif", "rb") 
 contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
 file_.close()
@@ -451,7 +451,7 @@ if (result == 100):
 elif (result < 100):
     st.sidebar.write("Nerden kırdın " , int(100-result) , "puanı kuzum?")
 
-file_ = open("kuzu.mp4", "rb") #C:/Users/admin/Dropbox/My PC (DESKTOP-CQS9CBD)/Desktop/
+file_ = open("kuzu.mp4", "rb") 
 contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
 file_.close()
