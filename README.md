@@ -26,7 +26,7 @@ Ayrıca sadece dertleşmeye değil aynı zamanda dinlemek istediğiniz temaya g�
 # Kod Yapısı
 - Dataframe üzerinde kolayca işlem yapabilmek ve anlaşılır kılabilmek için **Pandas**,
 
-- Matrisleri kolayca kullanabilmek için *Numpy*,
+- Matrisleri kolayca kullanabilmek için **Numpy**,
 
 - Metni düzenlemek ve metinden alt parçaları elde etmek için **Re**,
 
@@ -40,7 +40,14 @@ Ayrıca sadece dertleşmeye değil aynı zamanda dinlemek istediğiniz temaya g�
 
 kullanıldı.
 
-# Cosine Similarity
+## Dot product
+![alt text](https://github.com/benguyurdakul/programlama-uygulamalari-kuzukuzu/blob/main/dot%20product.PNG)
+
+## Norm
+![alt text](https://github.com/benguyurdakul/programlama-uygulamalari-kuzukuzu/blob/main/norm.PNG)
+
+## Cosine Similarity
+![alt text](https://github.com/benguyurdakul/programlama-uygulamalari-kuzukuzu/blob/main/cosine%20similarity.PNG)
 
 
 ENGLISH
@@ -54,3 +61,20 @@ Input can be a word, a sentence, or a paragraph.
 [You should download the library:](https://drive.google.com/drive/folders/1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww?usp=drive_open "TRMODEL")
 
 [Source](https://github.com/akoksal/Turkish-Word2Vec)
+
+# Code Structure
+- **Pandas** in order to be able to operate on the data frame easily and make it understandable,
+
+- **Numpy** to use matrices easily,
+
+- **Re** to edit the text and extract sub-parts from the text,
+
+- **Base64** for encoding binary data to text,
+
+- **Scikit-Learn** to use the cosine-similarity function,
+ 
+- **Gensim** for Word2Vec,
+
+- **streamlit** for transferring to the website
+
+used.
