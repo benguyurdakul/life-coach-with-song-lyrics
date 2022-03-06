@@ -5,7 +5,7 @@ Kullanıcının moduna göre kullanıcıdan girdi ister ve şarkı sözleri ile 
 Girdi bir kelime, bir cümle veya bir paragraf olabilir.
 *Word2Vec algortiması, Jaccard ve Cosine benzerliği* uygulandı. 
 Daha sonra uygulama *Streamlit'e* yüklendi.
-Kodu çalıştırmak için [şu] kütüphaneyi indirmelisiniz: (https://drive.google.com/drive/folders/1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww?usp=drive_open)
+Kodu çalıştırmak için şu kütüphaneyi indirmelisiniz: [https://drive.google.com/drive/folders/1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww?usp=drive_open, "TRMODEL"]
 [Burayı] kontrol etmeyi de unutmayın. (https://github.com/akoksal/Turkish-Word2Vec)
 
 
