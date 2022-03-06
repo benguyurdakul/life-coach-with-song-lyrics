@@ -19,7 +19,7 @@ According to the user's mode, it prompts for input from the user and responds wi
 
 Input can be a word, a sentence, or a paragraph.
 
-Word2Vec algorithm, Jaccard and Cosine similarity were applied.Then the application was uploaded to Streamlit.
+*Word2Vec algorithm, Jaccard and Cosine similarity* were applied.Then the application was uploaded to *Streamlit.*
 
 [You should download the library:](https://drive.google.com/drive/folders/1IBMTAGtZ4DakSCyAoA4j7Ch0Ft1aFoww?usp=drive_open "TRMODEL")
 
